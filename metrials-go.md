@@ -17,6 +17,15 @@
 
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
 
+### Сообщества
+
+- [Форум в группах Google][11]
+
+- [Группа "Golang RU" в Telegram'e #1][8]
+- [Группа "pro.go" в Telegram'e #2][9]
+
+- [Чат в Slack'e][10], инвайт получить можно [здесь][11]
+
 ## На украинском языке
 
 ### Мануалы
@@ -32,3 +41,12 @@
 [5]: https://go-tour-ua.appspot.com/welcome/1
 [6]: https://habrahabr.ru/company/mailru/blog/314804
 [7]: http://www.ozon.ru/context/detail/id/34671680/
+
+[8]: https://t.me/gogolang
+[9]: https://t.me/proGO
+
+[10]: https://golang-ru.slack.com
+[11]: http://4gophers.ru/slack
+
+[12]: https://groups.google.com/forum/#!forum/Golang-ru
+
