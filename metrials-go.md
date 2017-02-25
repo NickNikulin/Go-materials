@@ -30,6 +30,9 @@
 - [Golang Moscow: Go 1.8 release party][15] (4 доклада)
 - [Meetup в офисе Badoo][16] (3 доклада)
 - [Весенний Go в Badoo][17] (3 доклада)
+- [Golang Meetup Novosibirk, Февраль 2016][21] (4 доклада)
+- [Golang Meetup Novosibirsk, May][22] (2 доклада)
+- [Golang Meetup Novosibirsk, August 2016][23] (2 доклада)
 
 #### Видео
 
@@ -77,3 +80,7 @@
 [19]: https://www.youtube.com/watch?v=EWsXbsUBm-M
 
 [20]: http://golangshow.com/
+
+[21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp3FtlKnuuL_-JJaErbV9k-L
+[21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp28SkI9_ZcJnlpunZNZ36mh
+[21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp2u73JtzqlmooVtN1eiTCk6
