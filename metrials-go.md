@@ -17,13 +17,24 @@
 
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
 
-### Видео
+### Аудиоматериалы
 
-#### Golang Moscow, Go 1.8 release party
-- [Обзор изменений и нововведений в Go 1.8: язык, runtime, стандартная библиотека][15]
-- [Golang в Avito][16]
-- [Миллион открытых каналов с данными по сети][17]
-- [Как 200 строк на Go помогли нам освободить 15 серверов][18]
+#### Подкасты
+
+- [**GolangShow**: Русскоязычный подкаст о Go][20]
+
+### Видеоматериалы
+
+#### Конференции, meetup's
+
+- [Golang Moscow: Go 1.8 release party][15] (4 доклада)
+- [Meetup в офисе Badoo][16] (3 доклада)
+- [Весенний Go в Badoo][17] (3 доклада)
+
+#### Видео
+
+- [Переход с любимого языка на Go][18]
+- [Опыт применения Go в Dropbox в SRE][19]
 
 ### Сообщества
 
@@ -58,8 +69,11 @@
 [13]: https://golang-ua.slack.com
 [14]: https://gitter.im/dev-ua/go
 
-[15]: https://www.youtube.com/watch?v=0l4uTWgxOcA 
-[16]: https://www.youtube.com/watch?v=1KmR_O9NMpU
-[17]: https://www.youtube.com/watch?v=Jk1cTF5-v1Q
-[18]: https://www.youtube.com/watch?v=uO268voCGwA
+[15]: https://www.youtube.com/playlist?list=PLknJ4Vr6efQEC9g8MIJopLmTZ0b_MXlYh 
+[16]: https://www.youtube.com/playlist?list=PL3xVZC4USRNRD2U7ZASvzaUQdngBanrW1
+[17]: https://www.youtube.com/playlist?list=PL3xVZC4USRNShnrPVbZAMJNTdA36TmNZv
 
+[18]: https://www.youtube.com/watch?v=hy3JwgOvpII
+[19]: https://www.youtube.com/watch?v=EWsXbsUBm-M
+
+[20]: http://golangshow.com/
