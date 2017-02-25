@@ -17,6 +17,14 @@
 
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
 
+### Видео
+
+#### Golang Moscow, Go 1.8 release party
+- [Обзор изменений и нововведений в Go 1.8: язык, runtime, стандартная библиотека][15]
+- [Golang в Avito][16]
+- [Миллион открытых каналов с данными по сети][17]
+- [Как 200 строк на Go помогли нам освободить 15 серверов][18]
+
 ### Сообщества
 
 - [Форум в группах Google][11]
@@ -49,4 +57,9 @@
 [12]: https://groups.google.com/forum/#!forum/Golang-ru
 [13]: https://golang-ua.slack.com
 [14]: https://gitter.im/dev-ua/go
+
+[15]: https://www.youtube.com/watch?v=0l4uTWgxOcA 
+[16]: https://www.youtube.com/watch?v=1KmR_O9NMpU
+[17]: https://www.youtube.com/watch?v=Jk1cTF5-v1Q
+[18]: https://www.youtube.com/watch?v=uO268voCGwA
 
