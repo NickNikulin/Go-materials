@@ -30,7 +30,10 @@
 
 - [Тур з Go][5]
 
-##
+### Сообщества
+
+- [Чат в Slack'e][13], инвайт получить можно написав на gleb.kolesnikof[dot]gmail.com
+- [Чат в Gitter'e][14]
 
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
@@ -39,12 +42,11 @@
 [5]: https://go-tour-ua.appspot.com/welcome/1
 [6]: https://habrahabr.ru/company/mailru/blog/314804
 [7]: http://www.ozon.ru/context/detail/id/34671680/
-
 [8]: https://t.me/gogolang
 [9]: https://t.me/proGO
-
 [10]: https://golang-ru.slack.com
 [11]: http://4gophers.ru/slack
-
 [12]: https://groups.google.com/forum/#!forum/Golang-ru
+[13]: https://golang-ua.slack.com
+[14]: https://gitter.im/dev-ua/go
 
