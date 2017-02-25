@@ -33,6 +33,7 @@
 - [Golang Meetup Novosibirk, Февраль 2016][21] (4 доклада)
 - [Golang Meetup Novosibirsk, May][22] (2 доклада)
 - [Golang Meetup Novosibirsk, August 2016][23] (2 доклада)
+- [Доклады конференции Golang Moscow в Digital October][24] (3 доклада)
 
 #### Видео
 
@@ -82,5 +83,7 @@
 [20]: http://golangshow.com/
 
 [21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp3FtlKnuuL_-JJaErbV9k-L
-[21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp28SkI9_ZcJnlpunZNZ36mh
-[21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp2u73JtzqlmooVtN1eiTCk6
+[22]: https://www.youtube.com/playlist?list=PLFGD2mcDssp28SkI9_ZcJnlpunZNZ36mh
+[23]: https://www.youtube.com/playlist?list=PLFGD2mcDssp2u73JtzqlmooVtN1eiTCk6
+
+[24]: https://www.youtube.com/watch?v=OtRf5WC4qoE
