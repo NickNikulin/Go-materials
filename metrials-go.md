@@ -8,6 +8,7 @@
 - [Маленькая книга о Go][3]
 - [Эффективный Go][2]
   - Есть еще [Краткий пересказ Effective Go на русском языке][4], но 2009 года
+- [Go в примерах][25]
 
 ### Статьи
 
@@ -87,3 +88,5 @@
 [23]: https://www.youtube.com/playlist?list=PLFGD2mcDssp2u73JtzqlmooVtN1eiTCk6
 
 [24]: https://www.youtube.com/watch?v=OtRf5WC4qoE
+
+[25]: https://gobyexample.ru/
