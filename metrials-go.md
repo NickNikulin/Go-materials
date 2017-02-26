@@ -2,7 +2,7 @@
 
 ## На русском языке
 
-### Мануалы
+### Мануалы и туториалы
 
 - [Введение в программирование на Go][1]
 - [Маленькая книга о Go][3]
@@ -54,7 +54,7 @@
 
 ## На украинском языке
 
-### Мануалы
+### Мануалы и туториалы
 
 - [Тур з Go][5]
 
@@ -65,7 +65,11 @@
 
 ## На английском языке
 
-### Статьи
+### Manuals and Tutorials
+
+- [Go database/sql tutorial][29]
+
+### Articles
 
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs][27]
 
@@ -97,3 +101,4 @@
 [26]: http://4gophers.ru/
 [27]: http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 [28]: https://ru.stackoverflow.com/questions/tagged/golang
+[29]: http://go-database-sql.org/
