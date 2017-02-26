@@ -50,6 +50,8 @@
 
 - [4gophers: Язык программирования Go][26] - самый старый русскоязычный проект посвящённый Go. Публикуются статьи, новости, видео и другая информация о мире Go.
 
+- [Вопросы по языку на русскоязычном StackOverflow][28]
+
 ## На украинском языке
 
 ### Мануалы
@@ -60,6 +62,12 @@
 
 - [Чат в Slack'e][13], инвайт получить можно написав на gleb.kolesnikof[dot]gmail.com
 - [Чат в Gitter'e][14]
+
+## На английском языке
+
+### Статьи
+
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs][27]
 
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
@@ -75,23 +83,17 @@
 [12]: https://groups.google.com/forum/#!forum/Golang-ru
 [13]: https://golang-ua.slack.com
 [14]: https://gitter.im/dev-ua/go
-
 [15]: https://www.youtube.com/playlist?list=PLknJ4Vr6efQEC9g8MIJopLmTZ0b_MXlYh 
 [16]: https://www.youtube.com/playlist?list=PL3xVZC4USRNRD2U7ZASvzaUQdngBanrW1
 [17]: https://www.youtube.com/playlist?list=PL3xVZC4USRNShnrPVbZAMJNTdA36TmNZv
-
 [18]: https://www.youtube.com/watch?v=hy3JwgOvpII
 [19]: https://www.youtube.com/watch?v=EWsXbsUBm-M
-
 [20]: http://golangshow.com/
-
 [21]: https://www.youtube.com/playlist?list=PLFGD2mcDssp3FtlKnuuL_-JJaErbV9k-L
 [22]: https://www.youtube.com/playlist?list=PLFGD2mcDssp28SkI9_ZcJnlpunZNZ36mh
 [23]: https://www.youtube.com/playlist?list=PLFGD2mcDssp2u73JtzqlmooVtN1eiTCk6
-
 [24]: https://www.youtube.com/watch?v=OtRf5WC4qoE
-
 [25]: https://gobyexample.ru/
-
 [26]: http://4gophers.ru/
-
+[27]: http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+[28]: https://ru.stackoverflow.com/questions/tagged/golang
