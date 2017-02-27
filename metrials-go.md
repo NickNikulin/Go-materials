@@ -75,7 +75,10 @@
 
 ## Полезные ресурсы
 
-- [Fucking Go Date Format][30]
+- [Fucking Go Date Format][30] - форматирование в Go отличается от других Си-подобных языков, этот сервис поможет вам написать его.
+
+Эти два сервиса позволяют сгенерировать Go-структуру из уже имеющегося JSON-кода:
+
 - [JSON-to-Go: Convert JSON to Go struct][31]
 - [Convert JSON in to a useful struct.][32]
 
