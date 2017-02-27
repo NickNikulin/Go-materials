@@ -73,6 +73,12 @@
 
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs][27]
 
+## Полезные ресурсы
+
+- [Fucking Go Date Format][30]
+- [JSON-to-Go: Convert JSON to Go struct][31]
+- [Convert JSON in to a useful struct.][32]
+
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
 [3]: https://sefus.ru/little-go-book/
@@ -102,3 +108,6 @@
 [27]: http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 [28]: https://ru.stackoverflow.com/questions/tagged/golang
 [29]: http://go-database-sql.org/
+[30]: http://fuckinggodateformat.com/
+[31]: https://mholt.github.io/json-to-go/
+[32]: http://json2struct.mervine.net/
