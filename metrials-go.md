@@ -9,6 +9,7 @@
 - [Эффективный Go][2]
   - Есть еще [Краткий пересказ Effective Go на русском языке][4], но 2009 года
 - [Go в примерах][25]
+- [Разработка Web-приложений на языке Go][35]
 
 ### Статьи
 
@@ -17,6 +18,7 @@
 ### Книги
 
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
+- Марк Саммерфильд - Программирование на Go. Разработка приложений XXI века
 
 ### Аудиоматериалы
 
@@ -77,6 +79,12 @@
 
 - [Fucking Go Date Format][30] - форматирование в Go отличается от других Си-подобных языков, этот сервис поможет вам написать его.
 
+### Книги
+
+- Miek Gieben: [Learning Go][33]
+- Matt Aimonetti: [Go Bootcamp][34]
+
+
 Эти два сервиса позволяют сгенерировать Go-структуру из уже имеющегося JSON-кода:
 
 - [JSON-to-Go: Convert JSON to Go struct][31]
@@ -114,3 +122,6 @@
 [30]: http://fuckinggodateformat.com/
 [31]: https://mholt.github.io/json-to-go/
 [32]: http://json2struct.mervine.net/
+[33]: https://archive.miek.nl/files/go/Learning-Go-latest.pdf
+[34]: https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf
+[35]: https://github.com/asaskevich/build-web-application-with-golang_RU
