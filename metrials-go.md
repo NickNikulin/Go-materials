@@ -70,6 +70,7 @@
 ### Manuals and Tutorials
 
 - [Go database/sql tutorial][29]
+- [Network Programming with Go][36]
 
 ### Articles
 
@@ -125,3 +126,4 @@
 [33]: https://archive.miek.nl/files/go/Learning-Go-latest.pdf
 [34]: https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf
 [35]: https://github.com/asaskevich/build-web-application-with-golang_RU
+[36]: https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/
