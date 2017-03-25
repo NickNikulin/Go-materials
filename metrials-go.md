@@ -43,6 +43,11 @@
 - [Переход с любимого языка на Go][18]
 - [Опыт применения Go в Dropbox в SRE][19]
 
+#### YouTube
+
+- [Небольшая серия "Пишем веб-приложение на Go"][42] авторстом Сергея Гаврука
+- [Серия из 26 видео на тему "Погружение в Google Go"][43] авторством Романа Левищенко
+
 ### Сообщества
 
 - [Форум в группах Google][12]
@@ -99,6 +104,11 @@
 - [Подкаст "Go Time"][38] (Ведущие: Erik St. Martin, Carlisia Pinto, and Brian Ketelsen)
 - [... здесь еще некоторые есть][39]
 
+### Видео
+
+- [Канал на YouTube авторства Todd McLeod][40], много видео о разработке на Go, включая разработку веб-приложений
+- [Канал "Failing Forward" на YouTube][41], есть серия "Introduction to Go", а также некоторые видео по разработке веб-приложений
+
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
 [3]: https://sefus.ru/little-go-book/
@@ -138,3 +148,7 @@
 [37]: https://habrahabr.ru/hub/go/all/
 [38]: https://changelog.com/gotime
 [39]: https://github.com/golang/go/wiki/Podcasts
+[40]: https://www.youtube.com/user/toddmcleod/videos
+[41]: https://www.youtube.com/channel/UCqRfhD3bKs-6gc5lPh2fRVw/videos
+[42]: https://www.youtube.com/playlist?list=PLGtcqyFrda9474GltUO-7S4KoJVcdLMp4
+[43]: https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca
