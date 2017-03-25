@@ -15,6 +15,8 @@
 
 - [50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков][6]
 
+- [Хаб "Go" на Хабрахабре][37]
+
 ### Книги
 
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
@@ -131,3 +133,4 @@
 [34]: https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf
 [35]: https://github.com/asaskevich/build-web-application-with-golang_RU
 [36]: https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/
+[37]: https://habrahabr.ru/hub/go/all/
