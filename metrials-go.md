@@ -100,6 +100,7 @@
 
 - Miek Gieben: [Learning Go][33] (Attribution-NonCommercial-ShareAlike 3.0 Unported License)
 - Matt Aimonetti: [Go Bootcamp][34] (Creative Commons Attribution 3.0 license.)
+- [Practical Cryptography With Go][45]
 
 ### Подкасты
 
@@ -155,3 +156,4 @@
 [42]: https://www.youtube.com/playlist?list=PLGtcqyFrda9474GltUO-7S4KoJVcdLMp4
 [43]: https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca
 [44]: https://t.me/awesomego
+[45]: https://leanpub.com/gocrypto/read
