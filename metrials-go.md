@@ -91,8 +91,8 @@
 
 ### Книги
 
-- Miek Gieben: [Learning Go][33]
-- Matt Aimonetti: [Go Bootcamp][34]
+- Miek Gieben: [Learning Go][33] (Attribution-NonCommercial-ShareAlike 3.0 Unported License)
+- Matt Aimonetti: [Go Bootcamp][34] (Creative Commons Attribution 3.0 license.)
 
 
 [1]: http://golang-book.ru/
