@@ -59,6 +59,7 @@
 ### Другое
 
 - [4gophers][26] - самый старый русскоязычный проект посвящённый Go. Публикуются статьи, новости, видео о Go.
+- [Ежедневный дайджест новостей языка Go и всего вокруг него в Telegram][44]
 
 ---
 
@@ -153,3 +154,4 @@
 [41]: https://www.youtube.com/channel/UCqRfhD3bKs-6gc5lPh2fRVw/videos
 [42]: https://www.youtube.com/playlist?list=PLGtcqyFrda9474GltUO-7S4KoJVcdLMp4
 [43]: https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca
+[44]: https://t.me/awesomego
