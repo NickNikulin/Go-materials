@@ -54,6 +54,8 @@
 
 - [Вопросы по языку на русскоязычном StackOverflow][28]
 
+---
+
 ## На украинском языке
 
 ### Мануалы и туториалы
@@ -65,14 +67,16 @@
 - [Чат в Slack'e][13], инвайт получить можно написав на gleb.kolesnikof[dot]gmail.com
 - [Чат в Gitter'e][14]
 
+---
+
 ## На английском языке
 
-### Manuals and Tutorials
+### Мануалы и туториалы
 
 - [Go database/sql tutorial][29]
 - [Network Programming with Go][36]
 
-### Articles
+### Статьи
 
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs][27]
 
@@ -80,16 +84,16 @@
 
 - [Fucking Go Date Format][30] - форматирование в Go отличается от других Си-подобных языков, этот сервис поможет вам написать его.
 
+Эти два сервиса позволяют сгенерировать Go-структуру из уже имеющегося JSON-кода:
+
+- [JSON-to-Go: Convert JSON to Go struct][31]
+- [Convert JSON in to a useful struct.][32]
+
 ### Книги
 
 - Miek Gieben: [Learning Go][33]
 - Matt Aimonetti: [Go Bootcamp][34]
 
-
-Эти два сервиса позволяют сгенерировать Go-структуру из уже имеющегося JSON-кода:
-
-- [JSON-to-Go: Convert JSON to Go struct][31]
-- [Convert JSON in to a useful struct.][32]
 
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
