@@ -22,9 +22,7 @@
 - Алан А. А. Донован, Брайан У. Керниган: [Язык программирования Go][7]
 - Марк Саммерфильд - Программирование на Go. Разработка приложений XXI века
 
-### Аудиоматериалы
-
-#### Подкасты
+### Подкасты
 
 - [**GolangShow**: Русскоязычный подкаст о Go][20]
 
@@ -96,6 +94,10 @@
 - Miek Gieben: [Learning Go][33] (Attribution-NonCommercial-ShareAlike 3.0 Unported License)
 - Matt Aimonetti: [Go Bootcamp][34] (Creative Commons Attribution 3.0 license.)
 
+### Подкасты
+
+- [Подкаст "Go Time"][38] (Ведущие: Erik St. Martin, Carlisia Pinto, and Brian Ketelsen)
+- [... здесь еще некоторые есть][39]
 
 [1]: http://golang-book.ru/
 [2]: https://github.com/Konstantin8105/Effective_Go_RU
@@ -134,3 +136,5 @@
 [35]: https://github.com/asaskevich/build-web-application-with-golang_RU
 [36]: https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/
 [37]: https://habrahabr.ru/hub/go/all/
+[38]: https://changelog.com/gotime
+[39]: https://github.com/golang/go/wiki/Podcasts
