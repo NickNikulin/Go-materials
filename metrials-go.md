@@ -80,7 +80,7 @@
 
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs][27]
 
-## Полезные ресурсы
+### Полезные ресурсы
 
 - [Fucking Go Date Format][30] - форматирование в Go отличается от других Си-подобных языков, этот сервис поможет вам написать его.
 
