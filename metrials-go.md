@@ -43,6 +43,8 @@
 - [Переход с любимого языка на Go][18]
 - [Опыт применения Go в Dropbox в SRE][19]
 
+- [Лекции "Программирование на Go" от Технострима][46]
+
 #### YouTube
 
 - [Небольшая серия "Пишем веб-приложение на Go"][42] авторстом Сергея Гаврука
@@ -157,3 +159,4 @@
 [43]: https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca
 [44]: https://t.me/awesomego
 [45]: https://leanpub.com/gocrypto/read
+[46]: https://www.youtube.com/watch?v=9Pk7xAT_aCU
