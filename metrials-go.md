@@ -9,7 +9,7 @@
 - [Эффективный Go][2]
   - Есть еще [Краткий пересказ Effective Go на русском языке][4], но 2009 года
 - [Go в примерах][25]
-- [Разработка Web-приложений на языке Go][35]
+- [Разработка Web-приложений на языке Go][35] (не полный перевод)
 
 ### Статьи
 
@@ -148,7 +148,7 @@
 [32]: http://json2struct.mervine.net/
 [33]: https://archive.miek.nl/files/go/Learning-Go-latest.pdf
 [34]: https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf
-[35]: https://github.com/asaskevich/build-web-application-with-golang_RU
+[35]: https://github.com/astaxie/build-web-application-with-golang/blob/master/ru/preface.md
 [36]: https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/
 [37]: https://habrahabr.ru/hub/go/all/
 [38]: https://changelog.com/gotime
